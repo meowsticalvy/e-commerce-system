@@ -1,4 +1,4 @@
-# e-commerce system
+# E-Commerce System
  
 <p>
 <b>based on the e-commerce project thats going on the class</b>
